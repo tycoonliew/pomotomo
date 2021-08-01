@@ -1,2 +1,2 @@
 # pomotomo
-Friendly pomodoro discord bot
+Your friendly neighbourhood pomodoro discord bot
